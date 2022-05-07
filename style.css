@@ -1,0 +1,20 @@
+body{
+    background-color: grey;
+}
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+img:hover{
+    border-radius: 200px;
+    
+    
+    }
+    .copy_right_footer{
+position: fixed;
+bottom: 0%;
+width: 10px;
+text-align: center;
+    }
